@@ -32,7 +32,7 @@ Omskrevet:
 [AI-omskrevet tekst]
 ```
 
-Standard modtager: jl@3blaa.dk (kan ændres i scriptet)
+Standard modtager: (kan ændres i scriptet)
 
 ## 🔧 Krav
 
